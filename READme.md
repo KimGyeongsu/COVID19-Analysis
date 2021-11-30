@@ -10,7 +10,7 @@ Based on the datasets on health_indicators, age, and death_rate of COVID-19, we 
 
 1. Country Health Indicators[1]
 
-> This dataset is a collection of data about several indicators related to the health of a country. There are a total of 180 countries, and 70 variables about health. The variables can be divided into the following areas : Country Region(col 1), COVID-19 facts(2~8, 67~70), Death Causes statistics(9~18), Other fatalities(19,20), Food Sources(21~41), Health care systems(43~48), School closures(49, 63~66), BCG data(50, 51), CIA factbook statistics(People/Society facts)(52~62). 
+> This dataset is a collection of data about several indicators related to the health of a country. There are a total of 180 countries, and 70 variables about health. The variables can be divided into the following areas : Country Region, COVID-19 facts, Death Causes statistics, Other fatalities, Food Sources, Health care systems, School closures, BCG data, CIA factbook statistics(People/Society facts). 
 > The data used in this study is Death Causes statistics, Food sources, Health care systems, and factbook statistics.
 
 2. COVID-19 cases: worldwide[2]
