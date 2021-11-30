@@ -11,6 +11,7 @@ Based on the datasets on health_indicators, age, and death_rate of COVID-19, we 
 1. Country Health Indicators[1]
 
 > This dataset is a collection of data about several indicators related to the health of a country. There are a total of 180 countries, and 70 variables about health. The variables can be divided into the following areas : Country Region, COVID-19 facts, Death Causes statistics, Other fatalities, Food Sources, Health care systems, School closures, BCG data, CIA factbook statistics(People/Society facts). 
+>
 > The data used in this study is Death Causes statistics, Food sources, Health care systems, and factbook statistics.
 
 2. COVID-19 cases: worldwide[2]
@@ -26,18 +27,23 @@ Based on the datasets on health_indicators, age, and death_rate of COVID-19, we 
 1. Pre-processing
 
 > min-max normalization
+> 
 > change numerical value into categorical value
+> 
 > oversampling by SMOTE algorithm
 
 2. Infer the relationship with features that we don't generally know.
 
 > ANOVA test
+> 
 > scheffe test for post-hoc analysis
 
 3. Make a prediction model
 
 > decision tree
+> 
 > 5-fold cross validation
+> 
 > ensemble methods(bagging & randomForest)
 
 ## Results & Discussion
