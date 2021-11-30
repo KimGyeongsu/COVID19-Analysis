@@ -51,6 +51,8 @@ Moreover, during this study, we noticed that sampling and pre-processing steps a
 
 ## References
 
-[1] https://www.kaggle.com/nxpnsv/country-health-indicators 
+[1] https://www.kaggle.com/nxpnsv/country-health-indicators
+
 [2] https://ourworldindata.org/coronavirus 
+
 [3] https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS?end=2018&start=2018&view=map
